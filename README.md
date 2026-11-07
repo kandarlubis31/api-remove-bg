@@ -40,3 +40,9 @@ requirements.txt
 ---
 
 Lihat `CONTEXT.md` di folder ini untuk detail arsitektur.
+
+---
+
+## English
+
+**api-remove-bg** is a small service that removes the background from images. The repository is packaged as a Docker-based Hugging Face Space.
